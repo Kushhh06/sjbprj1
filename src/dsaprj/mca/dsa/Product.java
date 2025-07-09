@@ -3,7 +3,7 @@ package dsaprj.mca.dsa;
 import java.util.Objects;
 
 public class Product {
-int prdId;
+public int prdId;
 String prdName;
 double prdPrice;
 public Product(int prdId, String prdName, double prdPrice) {
